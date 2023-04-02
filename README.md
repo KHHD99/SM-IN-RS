@@ -50,4 +50,3 @@ The datasets used in this project are the followings:
   
   4- Run the `Adaptative_code.ipynb` to generate the results.
   
-# Results
