@@ -44,7 +44,7 @@ The datasets used in this project are the followings:
   
   1- Navigate to the project directory in your local machine after the installation or clone the Microsoft Recommenders.
   
-  2- fined the following file `/recommenders/models/sar/sar_singlenode.py` and replace it by the one (`sar_singlenode.py`) provided in this repository.
+  2- fined the following file `/recommenders/models/sar/sar_singlenode.py` and replace it by the one (`sar_singlenode.py`) provided in this repository in the folder named `Installation Files`.
   
   3- Do the same for `/recommenders/utuls/python_utils.py` using `python_utils.py`of this repository as well.
   
