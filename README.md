@@ -24,10 +24,10 @@ The datasets used in this project are the followings:
     - The Epinions dataset, which is openly accessible and commonly employed in the research of recommender systems, includes ratings provided by users for items and explicit trust/distrust relationships between users. Users assess other users based on the quality of their reviews about the item, (https://www.kaggle.com/datasets/masoud3/epinions-trust-network).
     
   - MovieTweetings dataset : 
-    - A Movie Rating Dataset Collected From Twitter. The MovieTweetings dataset comprises ratings of movies that were expressed in well-organized tweets on Twitter. It was produced as a part of a research project by Simon Dooms (http://scholar.google.be/citations?user=owaD8qkAAAAJ) from Ghent University, Belgium, and presented during the CrowdRec 2013 workshop at the ACM RecSys 2013 conference.
+    - A Movie Rating Dataset Collected From Twitter. The MovieTweetings dataset comprises ratings of movies that were expressed in well-organized tweets on Twitter. It was produced as a part of a research project by Simon Dooms (http://scholar.google.be/citations?user=owaD8qkAAAAJ) from Ghent University, Belgium, and presented during the CrowdRec 2013 workshop at the ACM RecSys 2013 conference, (https://www.kaggle.com/datasets/tunguz/movietweetings).
     
   - Electronics dataset : 
-  -   - A collection of approximately 15,000 electronic products containing pricing information in 10 areas. Datafiniti's Product Database provides a list of over 15,000 electrical items with pricing information across 10 key variables. The dataset also includes brand, category, merchant, name, source, and other information (https://www.kaggle.com/datasets/datafiniti/electronic-products-prices).
+  -   - A collection of approximately 15,000 electronic products containing pricing information in 10 areas. Datafiniti's Product Database provides a list of over 15,000 electrical items with pricing information across 10 key variables. The dataset also includes brand, category, merchant, name, source, and other information (https://www.kaggle.com/datasets/datafiniti/electronic-products-prices), (https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews).
 
 # Installation
   1 - Clone the repository of Microsoft Recommenders to your local machine, or install it using Anaconda.
