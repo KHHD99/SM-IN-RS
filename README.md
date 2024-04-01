@@ -1,5 +1,11 @@
 # Similarity Metrics Investigation in Recommender Systems (SMIRS)
-In this project we conduct an extensive simulation to evaluate the effectiveness of the similarity metrics in recommender system, using 7 datasets and tested by the most common performance evaluation metrics.
+Recommender systems are indispensable tools in modern digital platforms, guiding users through an overwhelming array of options by suggesting items that align with their preferences. At the heart of these systems lie similarity metrics, crucial for assessing the likeness between items and users' tastes to generate accurate recommendations. However, the effectiveness of these metrics depends on various factors, including dataset characteristics and the complexity of recommendation tasks.
+
+In order to fully evaluate the effectiveness of similarity metrics, our project conducts a comprehensive simulation program. We have attentively selected seven distinct datasets that cover several domains and consumer preferences, so establishing an extensive testing ground for our assessment. We hope to get insight into these metrics' efficacy and applicability in a range of recommendation scenarios by rigorously evaluating them using popular performance indicators.
+
+We use a rigorous approach, carefully planning experiments and accounting for confounding variables, consistent with best practices in recommender system research. Strict statistical methods guarantee the accuracy and repeatability of our conclusions, enabling us to approach data analysis methodically and identify trends. With this method, we hope to pinpoint anomalies and clarify the relative advantages and disadvantages of every similarity metric.
+
+Ultimately, our project seeks to advance the state-of-the-art in recommender system research by shedding light on the effectiveness of similarity metrics. By elucidating the nuances of these metrics across different datasets and recommendation algorithms, we empower practitioners and researchers to make informed decisions. Through our comprehensive simulation and rigorous evaluation approach, we contribute valuable insights to enhance the performance and user experience of recommender systems in various real-world applications.
 
 # Project Overview
 This project is a machine learning project that aims to investigate the similarity of in recommender systems. The project involves cleaning and preprocessing the data, training several machine learning models, and selecting the best similarity metric that perform well based on evaluation metrics.
