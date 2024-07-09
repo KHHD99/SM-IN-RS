@@ -1,1 +1,10 @@
 similarity metrics with negative co-occurrences that have been investigated
+
+Similarity metrics without negative co-occurrences invistigation in recommender system using the following 7 datsets:
+1- MovieLens-100K
+2- MovieLens-1M
+3- MovieLens-10M
+4- Jester
+5- Epinions
+6- MovieTweetings
+7- Electronics
